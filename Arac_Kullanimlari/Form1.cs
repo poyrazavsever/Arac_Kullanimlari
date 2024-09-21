@@ -38,5 +38,10 @@ namespace Arac_Kullanimlari
             label5.Text = "Öztürk";
             label8.Text = "Öğretmen";
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "Yazılım Mühendisliği";
+        }
     }
 }
