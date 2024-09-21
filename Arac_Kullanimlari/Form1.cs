@@ -41,7 +41,8 @@ namespace Arac_Kullanimlari
 
         private void button4_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "Yazılım Mühendisliği";
+            // textBox1.Text = "Yazılım Mühendisliği";
+            label9.Text = textBox1.Text;
         }
     }
 }
