@@ -31,5 +31,10 @@ namespace Arac_Kullanimlari
         {
             comboBox1.Items.Add(textBox1.Text);
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Add("Kasiyer");
+        }
     }
 }
