@@ -21,5 +21,10 @@ namespace Arac_Kullanimlari
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            comboBox1.Items.Add("Antalya");
+        }
     }
 }
